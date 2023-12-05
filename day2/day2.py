@@ -1,6 +1,9 @@
 #Get data from text file
 data = open("day2/day2.txt", "r").read().split("\n")
 
+
+# More fun with strip / split https://medium.com/@Alexander_H/removing-characters-before-after-and-in-the-middle-of-strings-fb4930cce76a#:~:text=lstrip()%20%23strips%20everything%20before,set%20of%20characters%20you%20give.
+
 sum = 0
 sum_min = 0 
 
