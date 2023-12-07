@@ -43,7 +43,7 @@ for x in range(0, x_total):
                             sum += int(my_number)
                             #print(my_number)
                             my_number = ""
-                            done = True
+                            #done = True
                             #break
                     #if done == True:
                         #break
